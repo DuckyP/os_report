@@ -1,0 +1,14 @@
+Address of stack variables:
+Level: 5, Address: 000000fa443ffb9c
+Level: 4, Address: 000000fa443ffb5c
+Level: 3, Address: 000000fa443ffb1c
+Level: 2, Address: 000000fa443ffadc
+Level: 1, Address: 000000fa443ffa9c
+Address of heap variables:
+Heap A: 0000022ce1955db0
+Heap B: 0000022ce1955dd0
+Heap C: 0000022ce1955df0
+Address of global variables:
+Global A: 00007ff713968000
+Global B: 00007ff713968004
+Global C: 00007ff713968008
